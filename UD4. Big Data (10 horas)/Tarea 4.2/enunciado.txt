@@ -1,0 +1,28 @@
+Tarefa 4.2. Análise de datos e IA no sector produtivo
+Requisitos do completado
+Abertas: mércores, 20 de maio de 2026, 10:00 AM
+Pendente: mércores, 3 de xuño de 2026, 11:59 PM
+Tarefa 4.2: Análise de datos e IA no sector produtivo
+Nesta tarefa aplicaremos o aprendido ata o de agora para elaborar unha proposta de utilización da intelixencia artificial e a análise de datos para optimizar os procesos dunha empresa do sector, e daremos continuidade ás propostas elaboradas ata o de agora nas tarefas 1.2 e 2.2 en relación á implantación de novas TDHs na empresa propoñendo indicadores que nos permitan analizar o impacto de aplicar estas novas tecnoloxías.
+
+Para iso continuaremos traballando sobre o arquivo de boxabalar empregado nas dúas tarefas anteriores. Terás que incorporar ao teu documento de boxabalar dous novos apartados: "Aplicacións da intelixencia artificial" e "Análise de datos".
+
+No apartado de "Aplicacións da intelixencia artificial" terás que:
+Propor tres áreas ou aplicacións específicas nas que a utilización da intelixencia artificial podería ser de utilidade para a empresa.
+Analizar, para cada unha destas áreas:
+Que beneficios aportaría a súa utilización.
+O impacto da incorporación destas ferramentas de intelixencia artificial en relación aos recursos humanos (postos que poderían desaparecer, novos perfís que sería necesario incorporar, ...).
+No apartado de "Análise de datos" terás que:
+Indicar dous indicadores que permitan ofrecer novos servizos, mellorar os procedementos, detectar erros nos produtos ou optimizar os procesos da empresa.
+A partir da proposta realizada nas tarefas anteriores de novas tecnoloxías dixitais habilitadoras que se poderían incorporar á empresa, indicar que datos se poderían rexistrar a partir delas e propor dous indicadores que se poderían obter a partir deles para analizar o impacto da implantación desas novas tecnoloxías.
+Para cada un dos catro indicadores propostos deberás indicar:
+O nome do indicador.
+Como poderían obterse os datos para construir o indicador (a partir dos programas e aplicacións da empresa, rexistros de log das máquinas e outros equipamentos, datos externos procedentes de internet, étc).
+Que vantaxes aportaría a análise dese indicador.
+Lembra empregar o mesmo documento empregado nas tarefas 1.2 e 2.2, non crees un documento novo porque senón perdemos a información do contexto de aplicación das túas propostas
+
+Para entregar a tarefa:
+
+Pulsa o botón Engadir Entrega. 
+No campo Texto en liña indica o enlace ao teu documento de abalarbox.
+Lembra gardar os cambios para que a entrega se realice de forma efectiva.

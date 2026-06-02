@@ -1,0 +1,37 @@
+Tarefa 3.2. Uso de intelixencias artificiais xenerativas para a creación de aplicacións
+Requisitos do completado
+Abertas: luns, 4 de maio de 2026, 12:00 AM
+Pendente: mércores, 20 de maio de 2026, 11:59 PM
+PartyRock é unha área de xogos de Amazon que permite crear aplicacións de IA xenerativa de xeito divertido e intuitivo, en poucos pasos e sen saber programar. Utiliza os modelos da IA xenerativa de Amazon Bedrock. Por exemplo, permite crear aplicacións para xerar chistes, crear listas de reprodución personalizadas, aconsellar menús....
+
+Nesta actividade imos crear unha aplicación de PartyRock que sexa útil no campo profesional do teu alumnado. Podes descubrir como usar PartyRock desde a propia aplicación, usando a PartyRock Guide, ou ben podes utilizar o manual que se anexa na tarefa.
+
+ 
+
+Traballo para realizar:
+
+Deberás crear unha aplicacións en PartyRock que sexa útil no campo profesional do teu alumnado. Para isto:
+
+Crearás unha primeira aplicación a partir dun prompt. Isto pode requirir un proceso iterativo de refinamento do teu prompt, ata que a aplicación xerada se adecúe ao que precises.
+
+Crearás unha segunda aplicación partindo da creada inicialmente coa opción remix , e tras creala editarala para modificala. Cumprirá que esta aplicación utilice os tres tipos de widget de saída. Será necesario ademais que nalgún dos widgets de saída se configure o modelo de IA e/ou os parámetros deste.
+
+A entrega incluirá:
+
+Descrición e propósito da aplicación, contextualizando a súa utilidade nun ciclo profesional.
+
+Para a primeira versión da aplicación: texto do prompt utilizado, ligazón á aplicación e ligazón a un snapshot cun exemplo de entradas que permita probala.
+
+Para a segunda versión da aplicación: breve explicación dos cambios realizados respecto á primeira, ligazón á aplicación e ligazón a un snapshot cun exemplo de entradas que permita probala.
+
+NON ESQUEZAS COMPARTIR AS APLICACIÓNS
+
+Tempo estimado: 3 horas.
+
+Valoración: APTO ou NON APTO. Considerarase APTO se:
+
+Inclúe todos os apartados solicitados na entrega.
+
+A descrición e o propósito permiten entender de forma clara o que debe facer a aplicación e cal é a súa utilidade.
+
+As aplicacións funcionan segundo o esperado, tanto cos datos do snapshot como con outros distintos.

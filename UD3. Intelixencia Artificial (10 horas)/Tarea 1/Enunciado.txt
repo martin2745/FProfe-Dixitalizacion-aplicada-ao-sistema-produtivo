@@ -1,0 +1,61 @@
+Tarefa 3.1. Adestramento de modelos de aprendizaxe automática con LearningML
+Requisitos do completado
+Abertas: luns, 4 de maio de 2026, 12:00 AM
+Pendente: mércores, 20 de maio de 2026, 11:59 PM
+LearningML é unha plataforma educativa que axuda a entender o funcionamento da intelixencia artificial e promove o pensamento computacional. Consiste nunha ferramenta de aprendizaxe automática ou machine learning que permite adestrar a máquina para recoñecer diferentes elementos. Desenvolveuna Juan David Rodríguez García. Podemos aprender sobre o funcionamento de LearningML no manual que se ofrece na propia plataforma. Tamén é relevante a información que se proporciona no seu modo avanzado.
+
+A continuación explícase que se vai facer nesta tarefa, cales son os pasos a seguir e como realizar estes pasos, e que se debe entregar. 
+
+LE CON ATENCIÓN A TAREFA COMPLETA ANTES DE EMPEZAR.
+
+ 
+
+Traballo para realizar:
+
+Imos adestrar un modelo de aprendizaxe automática en LearningML que sexa de utilidade no sector produtivo do teu alumnado. Utilizaremos o modo avanzado e modificaremos os parámetros do algoritmo para mellorar os resultados. Propóñense varias opcións para que escollas unha delas e realices o adestramento:
+
+Texto: Adestra un modelo que sexa quen de clasificar textos relevantes nalgún proceso do sector profesional. Poderían ser correos electrónicos, facturas, ordes de traballo, informes, ... Deberás ter polo menos tres clases e os textos a utilizar deben ser realistas.
+Imaxes: Adestra un modelo que sexa quen de clasificar imaxes relevantes nalgún proceso do sector profesional, por exemplo pezas de distintas categorías ou pezas defectuosas, variedades de froitas ou plantas de distintos tipos, carteis publicitarios ou doutros tipos, lesións deportivas, compoñentes, ferramentas de traballo, cortes de pelo, alimentos, materiais...  Deberás ter polo menos tres clases.
+
+Proceso de construción do modelo de adestramento: 3 PASOS:
+
+Preparar os datos cos que se vai adestrar o modelo: Prepararanse os datos de adestramento. Indicaranse as clases nas que se van clasificar os datos, e introduce os datos de cada clase. LearningML permite catros tipos de datos: texto, imaxes, datos numéricos ou sons.
+
+Adestrar o modelo. Traballarase no modo avanzado. Escollerase o algoritmo de adestramento, establecerase o valor inicial dos seus parámetros, e adestrarase o modelo. Internamente os datos de adestramento circularán iterativamente pola rede, seguindo os criterios do algoritmo e parámetros establecidos, e só temos que esperar a que remate. Probaremos a variar os parámetros do algoritmo e repetir o adestramento, tratando de melloralo. LearningML proporciona gráficas con información que nos axuda a entender como variar os valores dos parámetros. Realizarase un proceso iterativo de axuste dos parámetros do modelo, intentando que o adestramento mellore (mínimo 3 veces).
+
+Probar o modelo. Probarase o modelo con datos novos, distintos dos usados no adestramento e o o sistema indicará a probabilidade de pertenza a cada unha das categorías.
+
+Pódense gardar os datos do adestramento (formato json) e o modelo adestrado (formato mdl) desde o botón Ficheiro, na parte superior da web. No mesmo botón pódense cargar os datos que se tivesen gardado antes. LearningML non utiliza contas de usuario nin garda datos internamente: es ti quen tes que gardar o teu traballo no teu PC. Aconsellamos gardar o traballo ao completar o paso 1 e ao completar o paso 2, para poder recuperalo se o precisamos.
+
+Na web de LearningML proporciónanse videotutoriales con exemplos de adestramentos. Nótese que algúns destes vídeos usan o modo básico, cando nós queremos usar o avanzado, xa que é o que nos vai permitir entender o adestramento. Nótese tamén que nalgúns vídeos, ademáis de adestrar o modelo, constrúese un programa en scrath que utiliza o modelo adestrado, o que queda fóra dos obxectivos desta tarefa. 
+
+SE NON O TES CLARO: Tes unha explicación máis detallada do funcionamento de LearningML e de como realizar a tarefa no documento: actividade1Learningml_detalle_v2.pdf
+
+Se queres entender mellor o proceso de adestramento en LearningML podes botarlle un ollo ao documento: actividade1Learningml_algoritmosDeAdestramento.pdf.
+Isto non é imprescindible para realizar a tarefa, pero axuda a entender como inflúen os valores dos parámetros dos algoritmos de adestramento no resultado obtido, e a súa utilidade como recurso educativo en IA.
+
+
+Entrega da tarefa: A entrega incluirá:
+
+Un documento PDF coa seguinte información:
+
+Descrición e propósito do adestramento.
+Descrición do proceso de axuste realizado: Indicarase o algoritmo escollido e, para cada paso do axuste (mínimo tres) incluirase unha captura de pantalla que mostre os valores asignados aos seus parámetros e as gráficas obtidas como resultado. Opcionalmente xustificarase a adecuación dos valores establecidos en base á gráficas obtidas.
+Resultados das probas realizadas (despois de axustar e adestrar o modelo): Indicarase a porcentaxe de éxitos e incluiranse capturas de pantalla que mostren os resultados das probas realizadas.
+Proposta de datos de proba (non usados no adestramento nin nas probas realizadas). No caso de imaxes anexaranse á tarefa comprimidos nun ficheiro zip. No caso de textos incluiranse nun pdf.
+
+Ficheiro json cos datos de adestramento.
+
+Ficheiro mdl co modelo adestrado.
+
+ 
+
+Tempo estimado: 3 horas.
+
+Valoración: APTO / NON APTO. Considerarase APTO se:
+
+Inclúe todos os apartados solicitados na entrega.
+
+Realizáronse axustes nos parámetros do modelo.
+
+As probas sobre os modelos entregados amosan unha clasificación correcta cando menos no 70 % dos casos, ou explícase razoadamente porqué non é así.

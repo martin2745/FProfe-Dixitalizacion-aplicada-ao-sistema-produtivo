@@ -1,0 +1,45 @@
+Tarefa 4.1. Adquisición e análise de datos
+Requisitos do completado
+Abertas: mércores, 20 de maio de 2026, 10:00 AM
+Pendente: mércores, 3 de xuño de 2026, 11:59 PM
+Tarefa 4.1: Adquisición e análise de datos
+Nesta tarefa faremos unha análise dos datos dun dataset existente en Kaggle que recopila información relativa ao nivel de depresión do alumnado en función de diversas variables. Os datos incluidos no dataset non son de estudantes galegos, pero permitirannos analizar de maneira xenérica factores que poden afectar á situación anímica do alumnado, entre os que se atopan as horas de sono, o nivel de esixencia dos estudos, o rendemento académico, o nivel dos seus estudos, se traballan, se teñen antecedentes de problemas mentais na familia, étc.
+
+Para iso, partiremos dun dataset de depresión do alumnado de Kaggle (na páxina á que dirixe a ligazón pódese consultar o significado de cada unha das columnas do dataset) e crearemos un informe por medio de Looker Studio que amose:
+
+Distribución por sexo do alumnado que presenta depresión.
+A afectación da depresión por grupo de idade.
+A duración do sono como causa de depresión.
+A relación entre as horas de estudo ou traballo e a depresión.
+Para iso deberás:
+
+Descargar este dataset de kaggle (está tamén achegado na tarefa para simplificar a descarga).
+Crear un novo informe de Google Looker Studio e cargar o arquivo csv como orixe de datos. 
+Crear un campo de tipo "Grupo" que se chamará "Grupos de idades" que agregue os valores do campo "Age" en catro grupos: <=18, 19-22, 23-29 e >=30.
+Definir un novo campo de tipo "Campo calculado" que se chamará "Nota media" e conterá unicamente a parte enteira do campo "CGPA". Emprega para iso a función que elimina os decimais: Floor(CGPA).
+Engadir ao informe os gráficos indicados anteriormente:
+Un gráfico de tipo "Gráfico circular" que amose a distribución do alumnado por sexo: terá como dimensión a variable "Gender" e como indicador o "Record Count" (o número de rexistros). Ponlle a este gráfico título "Distribución por sexo".
+Un gráfico de tipo "Gráfico de barras apiladas al 100%" que teña como dimensión as horas de sono ("Sleep duration"), como dimensión de desglose o campo "Depression", e como indicador o "Record Count".
+Un gráfico "De rectángulos" que terá como dimensión o campo "Work/Study hours" e como indicador o "Record Count".
+Un gráfico de tipo "100% stacked vertical bar chart" que teña como dimensión o campo "Grupos de idades" creado anteriormente, como dimensión de desglose o campo "Depression", e como indicador o "Record Count".
+Define no gráfico "Distribución por sexo" un filtro chamado "Con depresion" que inclúa únicamente os rexistros correspondentes a alumnado que ten depresión (o campo "Depression" ten o valor 1). Unha vez creado o filtro, poderás aplicalo directamente no gráfico "Horas de estudo/traballo" premendo o botón de crear un filtro e seleccionando o filtro "Con depresión".
+Incorporar ao informe un control de tipo "Lista desplegable" que teña no "Campo de control" o campo "Nota media" creado anteriormente.
+Compartir o informe en modo oculto (accesible só co enlace).
+Entregar como resultado da tarefa a url do informe.
+Se tes calquera dúbida, podes consultar o vídeo explicativo incluido na parte práctica desta unidade.
+
+O resultado final debería ter un aspecto similar ao seguinte:
+
+cadro mando depresion alumnado
+
+Para entregar a tarefa:
+
+Pulsa o botón Engadir Entrega. 
+No teu informe preme o botón de "Compartir":
+boton compartir
+Compárteo en forma "Oculto" (só quen teña a ligazón poderá acceder) e copia a dirección da ligazón:
+configuracion compartir
+No campo Texto en liña pega a dirección url do teu informe.
+Lembra gardar os cambios para que a entrega se realice de forma efectiva.
+
+Student Depression Dataset.csv Student Depression Dataset.csv16 de marzo de 2026, 11:59 AM

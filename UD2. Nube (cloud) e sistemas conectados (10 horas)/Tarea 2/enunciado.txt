@@ -1,0 +1,103 @@
+Tarefa 2.2. Aplicación de TDH da UD2 ao sector produtivo
+Requisitos do completado
+Para facer: Recibir unha cualificación
+Abertas: mércores, 22 de abril de 2026, 12:00 PM
+Pendente: luns, 4 de maio de 2026, 11:59 PM
+ENUNCIADO
+Nesta tarefa continuarás coa preparación do proxecto final do curso.
+
+Así, para a empresa escollida na tarefa 1.2, realizaredes unha proposta de aplicación das TDH vistas nesta UD2 (Cloud, Edge, IoT, 5G, etc), desenvolvendo só un (1)  dos seguintes escenarios:
+
+Escenario 1: Proposta de migración de servizos á nube
+A túa empresa quere migrar todos ou parte dos seus sistemas de información á nube para aforrar custos de licenzas.
+
+No rol de consultor/a de servizos cloud independente, pídenche que elabores unha proposta sobre que partes do negocio da empresa deberían migrar á nube e, polo tanto, que servizos cloud deberían contratar e  a que tipo de provedor.
+
+Para facer o estudo segue o guión que se propón a continuación:
+
+Identificación da empresa: (esta parte xa debería estar feita na tarefa 1.2)
+
+Nome da empresa e páxina web (se a ten).
+Familia profesional ou sector produtivo da empresa
+Descrición do seu negocio
+Identifica os sistemas ou aplicacións on premise que consideres deben migrarse á nube.
+
+Determina a que tipo de nube (pública/privada) e nivel de servizo (IaaS, SaaS...) realizarías a migración.
+
+Que servizos cloud deberías contratar para realizar a migración dos teus sistemas on site? Examina o catálogo de servizos de provedores do tipo de cloud escollida no aptdo 3. Indica provedor e servizos seleccionados para migrar os sistemas indicados no aptdo 2.
+
+Xustifica as túas respostas ás preguntas anteriores tendo en conta aspectos como:
+
+Natureza dos procesos de negocio.
+
+Natureza dos datos que usan as aplicacións
+
+Viabilidade económica da migración (custos de recursos humanos, mantemento...).
+
+Impacto en relación á seguridade e protección de datos
+
+Criterios de sostibilidade da empresa.
+
+Escenario 2: Aplicación de tecnoloxías cloud e IoT 
+A túa empresa quere automatizar todo o posible os seus procesos de produción mediante a implantación de tecnoloxías de cloud computing e IoT.
+
+No rol de consultor/a de servizos cloud freelance, pídenche  que lles propoñas un caso de uso destas tecnoloxías aplicadas aos seus procesos de negocio, seguindo o seguinte guión:
+
+ Identificación da empresa: (esta parte xa debería estar feita na tarefa 1.2)
+
+Nome da empresa e páxina web (se a ten).
+Familia profesional ou sector produtivo da empresa
+Descrición do seu negocio
+Descrición do/s proceso/s de produción a automatizar.
+
+Descrición da solución proposta, que deberá incluir elementos como:
+
+Dispositivos IoT utilizados (sensores, actuadores, gateways, etc.).
+
+Datos colleitados (temperatura, presión, humidade, vibracións, etc.).
+
+Procesamento no bordo (Edge Computing): que datos se procesan localmente e cales se envían á nube.
+
+Beneficios esperados (reducción de latencia, optimización de recursos, mantemento preditivo, etc.).
+
+Tecnoloxías de conectividade (5G, Wi-Fi, LoRaWAN, etc.).
+
+Xustificación das melloras que se prevé obter no proceso produtivo implantando a solución anterior.
+
+A partir do documento creado en boxAbalar para a tarefa 1.2, entrega a túa proposta en formato PDF co nome "Tarefa2.2_Apelido1_Apelido2_Nome.pdf" , indicando cal foi o escenario escollido e implementando o guión de apartados  de dito escenario. 
+
+PARA ENTREGAR A TAREFA
+Crea o documento "Tarefa2.2_Apelido1_Apelido2_Nome.pdf" en boxAbalar
+
+Comparte o documento creado en boxAbalar:
+
+Para iso pulsa na icona . deste documento para abrir a lapela Compartir.
+Pulsa na icona (+) de “Compartir enlace” para xerar unha ligazón para compartir o documento
+.   
+
+A URL que se crea para compartir ten o formato: 
+
+https://boxabalar.edu.xunta.gal/index.php/s/XXXXX 
+
+onde os "XXXXX" son letras e números distintos en cada caso. 
+
+En calquera momento podes copiar a ligazón compartida no portapapeis pulsando na seguinte icona: 
+
+
+
+Revisa as opcións da icona cos tres puntos na imaxe anterior e asegúrate que o documento se comparte de xeito que os ficheiros se poden descargar pero só con permiso de lectura.
+
+Entrega da tarefa: Unha vez elaborado o documento, copia a URL do documento compartido en boxAbalar e pégaa na entrega desta tarefa. Para iso, clica o botón "Engadir entrega" que aparece na parte baixa desta pantalla.
+
+_____________________________________________________________________________________________________
+
+Evidencias da adquisición dos desempeños:
+
+Elaboración do documento PDF compartido coa información solicitada.
+Indicadores de logro:
+
+O contido do PDF compartido en boxAbalar cumpre os requisitos da tarefa,  abordando todos os apartados propostos no guión do escenario de aplicación escollido.
+Criterios de corrección:
+
+Apto se cubres todos os indicadores de logro.
+Non apto se non cubres algún dos puntos.
